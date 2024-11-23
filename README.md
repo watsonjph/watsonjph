@@ -8,11 +8,11 @@
 
 <div align="center">
  
- 🤔 I’m currently still thinking on **My Next Project**
+ 🔧 Currently Building **Metal Uppa**
  
- 📖 I’m currently learning **C#, Python, Unity**
+ 📖 I’m currently learning **C#, C++, C#**
 
- 🔥 I'm very interested in **Game Development, VR, Servers, Language Learning**
+ 🔥 I'm very interested in **Game Development, Web Development, Machine Learning**
  
  </div>
  
@@ -24,7 +24,7 @@
     <img src="https://img.shields.io/badge/Degen%20Moment-steam?style=for-the-badge&logo=steam&logoColor=031332&labelColor=blue&color=blue" target="_blank" />
   </a>
   <a href="https://youtu.be/nOj_A3aZxGs?si=0TrJW3XMDxCGqaOy" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
 </div>
 
@@ -34,7 +34,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,ae,aws,azure,blender,c,cs,cpp,discord,gcp,html" />
-    <img src="https://skillicons.dev/icons?i=java,js,linux,mongodb,mysql,ps,py,unity,vim,visualstudio,vscode,xd" /><br>
+    <img src="https://skillicons.dev/icons?i=java,js,linux,docker,mysql,ps,py,unity,vim,visualstudio,vscode,unreal" /><br>
 </div>
 
 <br/>
