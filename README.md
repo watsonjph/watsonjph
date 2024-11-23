@@ -10,7 +10,7 @@
  
  🔧 Currently Building **Metal Uppa**
  
- 📖 I’m currently learning **C#, C++, C#**
+ 📖 I’m currently learning **C#, C++, Javascript**
 
  🔥 I'm very interested in **Game Development, Web Development, Machine Learning**
  
@@ -20,7 +20,7 @@
   <a href="mailto:watson.jpy@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.dotabuff.com/players/174733177" target="_blank">
+  <a href="https://steamcommunity.com/id/TransientFortitude/" target="_blank">
     <img src="https://img.shields.io/badge/Degen%20Moment-steam?style=for-the-badge&logo=steam&logoColor=031332&labelColor=blue&color=blue" target="_blank" />
   </a>
   <a href="https://youtu.be/nOj_A3aZxGs?si=0TrJW3XMDxCGqaOy" target="_blank">
