@@ -10,9 +10,9 @@
  
  🔧 Currently Building **Metal Uppa**
  
- 📖 I’m currently learning **C#, C++, Javascript**
+ 📖 I’m currently learning **C#, Python, Javascript, Machine Learning**
 
- 🔥 I'm very interested in **Game Development, Web Development, Machine Learning**
+ 🔥 I'm very interested in **Game Development, Web Development, and Machine Learning**
  
  </div>
  
