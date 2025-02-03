@@ -2,17 +2,17 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=はじめまして+Hello+👋;+I'm+Watson!+(ワトソン);" />
 </h1>
 
-<h3 align="center">A Software Engineering Student, Currently Studying in Canada 🇨🇦</h3>
+<h3 align="center">A Computer Science Student who's just Relearning Stuff!</h3>
 
 <br/>
 
 <div align="center">
  
- 🔧 Currently Building **Metal Uppa**
+ 🔧 Currently Building **My Portolio Website and Metal Uppa**
  
- 📖 I’m currently learning **C#, Python, Javascript, Machine Learning**
+ 📖 I’m currently learning **C++, Python, Javascript, Machine Learning (Relearning C)**
 
- 🔥 I'm very interested in **Game Development, Web Development, and Machine Learning**
+ 🔥 I'm very interested in **Machine Learning, Deep Learning, Reverse Engineering**
  
  </div>
  
