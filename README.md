@@ -2,13 +2,13 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=はじめまして+Hello+👋;+I'm+Watson!+(ワトソン);" />
 </h1>
 
-<h3 align="center">A Computer Science Student who's just Relearning Stuff!</h3>
+<h3 align="center">Just Chilling rn</h3>
 
 <br/>
 
 <div align="center">
  
- 🔧 Currently Building **My Portolio Website and Metal Uppa**
+ 🔧 Currently Building **My Portolio Website, Metal Uppa, DashBot**
  
  📖 I’m currently learning **C++, Python, Javascript, Machine Learning (Relearning C)**
 
