@@ -8,9 +8,9 @@
 
 <div align="center">
  
- 🔧 Currently Building **Metal Uppa, DashBot**
+ 🔧 Currently Building **Metal Uppa, Thinking of something to Build**
  
- 📖 I’m currently learning **C#, Python, Javascript, Typescript**
+ 📖 I’m currently learning **C++, C#, Python, Javascript, Typescript**
 
  🔥 I'm very interested in **Machine Learning, Deep Learning, .Net Programming (Microsoft Stack)**
  
