@@ -23,7 +23,7 @@
   <a href="https://steamcommunity.com/id/TransientFortitude/" target="_blank">
     <img src="https://img.shields.io/badge/Degen%20Moment-steam?style=for-the-badge&logo=steam&logoColor=031332&labelColor=blue&color=blue" target="_blank" />
   </a>
-  <a href="https://youtu.be/nOj_A3aZxGs?si=0TrJW3XMDxCGqaOy" target="_blank">
+  <a href="https://www.linkedin.com/in/joseph-samuel-corsega-796a89250/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
 </div>
