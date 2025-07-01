@@ -8,7 +8,7 @@
 
 <div align="center">
  
- 🔧 Currently Building **Metal Uppa, Thinking of something to Build**
+ 🔧 Currently Building **Metal Uppa, Thinking of something to Build in C++**
  
  📖 I’m currently learning **C++, C#, Python, Javascript, Typescript**
 
@@ -33,8 +33,8 @@
 <h2 align="center">🔧 Languages-Frameworks-Tools 🔧</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,ae,aws,azure,blender,c,cs,cpp,discord,gcp,html" />
-    <img src="https://skillicons.dev/icons?i=java,js,linux,docker,mysql,ps,py,unity,vim,visualstudio,vscode,unreal" /><br>
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,react,nodejs,tailwind,vue,python,html,js,ts,nextjs" />
+    <img src="https://skillicons.dev/icons?i=net,linux,npm,azure,aws,gcp,docker,mysql,unity,vim,visualstudio,vscode" /><br>
 </div>
 
 <br/>
