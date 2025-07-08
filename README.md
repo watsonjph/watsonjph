@@ -10,7 +10,7 @@
  
  🔧 Currently Building **Metal Uppa, Thinking of something to Build in C++**
  
- 📖 I’m currently learning **C++, C#, Python, Javascript, Typescript**
+ 📖 I’m currently learning **C#, Python, Typescript**
 
  🔥 I'm very interested in **Machine Learning, Reverse Engineering, .Net Programming (Microsoft Stack)**
  
