@@ -8,11 +8,11 @@
 
 <div align="center">
  
- 🔧 Currently Building **Metal Uppa, Thinking of something to Build in C++**
+ 🔧 Currently Building **Metal Uppa**
  
  📖 I’m currently learning **C#, Python, Typescript**
 
- 🔥 I'm very interested in **Machine Learning, Reverse Engineering, .Net Programming (Microsoft Stack)**
+ 🔥 I'm very interested in **Machine Learning, .Net Programming (Microsoft Stack)**
  
  </div>
  
