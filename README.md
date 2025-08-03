@@ -8,7 +8,7 @@
 
 <div align="center">
  
- 🔧 Currently Building **UmaMusumeTrainerTools,Metal Uppa**
+ 🔧 Currently Building **UmaMusumeTrainerTools, Metal Uppa**
  
  📖 I’m currently learning **C#, Python, Typescript**
 
