@@ -12,7 +12,7 @@
  
  📖 I’m currently learning **C#, Python, Typescript**
 
- 🔥 I'm very interested in **Machine Learning, .Net Programming (Microsoft Stack)**
+ 🔥 I'm very interested in **Machine Learning, .Net Programming, Building Random Stuff**
  
  </div>
  
